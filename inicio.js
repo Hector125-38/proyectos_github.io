@@ -1,0 +1,12 @@
+"use strict";
+const matricula = "324030001";
+const nombre = "pedro";
+const edad = 50;
+const estatura = 1.74;
+let apellido = "perez";
+console.log(matricula);
+console.log(nombre);
+console.log(nombre.toUpperCase());
+console.log(nombre.length);
+console.log(edad);
+console.log(estatura.toFixed(2));
